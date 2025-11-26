@@ -1,0 +1,5 @@
+{
+  "name": "财富管家",
+  "description": "高端财富管理平台，利用 AI 分析持仓截图并提供智能资产配置建议。",
+  "requestFramePermissions": []
+}
